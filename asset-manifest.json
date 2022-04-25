@@ -1,18 +1,18 @@
 {
-  "main.css": "/static/css/main.99c0a46f.chunk.css",
-  "main.js": "/static/js/main.6591e07d.chunk.js",
-  "main.js.map": "/static/js/main.6591e07d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
-  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
-  "static/js/2.1ab61a15.chunk.js": "/static/js/2.1ab61a15.chunk.js",
-  "static/js/2.1ab61a15.chunk.js.map": "/static/js/2.1ab61a15.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.43ab4c13ef2b0a578d8f8f75ab3492fb.js": "/precache-manifest.43ab4c13ef2b0a578d8f8f75ab3492fb.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.99c0a46f.chunk.css.map": "/static/css/main.99c0a46f.chunk.css.map",
-  "static/media/logo-haymarket.png": "/static/media/logo-haymarket.01e58641.png",
-  "static/media/logo-sky.png": "/static/media/logo-sky.ea3e2430.png",
-  "static/media/tech-aws.png": "/static/media/tech-aws.c23f4973.png",
-  "static/media/tech-node.png": "/static/media/tech-node.f1c6f36a.png",
-  "static/media/tech-webpack.png": "/static/media/tech-webpack.a1091806.png"
+  "files": {
+    "main.css": "/static/css/main.c8fd1743.css",
+    "main.js": "/static/js/main.f01fe0b7.js",
+    "static/media/tech-webpack.png": "/static/media/tech-webpack.34b9b861a78ea7a3f05b.png",
+    "static/media/logo-haymarket.png": "/static/media/logo-haymarket.e4769fbb8b48087b649f.png",
+    "static/media/tech-node.png": "/static/media/tech-node.1dc6b4509b2e151be9c6.png",
+    "static/media/tech-aws.png": "/static/media/tech-aws.38b0ea3c789f4e9bc948.png",
+    "static/media/logo-sky.png": "/static/media/logo-sky.09b3b6ec98131aea3105.png",
+    "index.html": "/index.html",
+    "main.c8fd1743.css.map": "/static/css/main.c8fd1743.css.map",
+    "main.f01fe0b7.js.map": "/static/js/main.f01fe0b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fd1743.css",
+    "static/js/main.f01fe0b7.js"
+  ]
 }
