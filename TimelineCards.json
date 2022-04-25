@@ -6,8 +6,8 @@
             "endDate": "February 2022",
             "title": "Sky",
             "location": "England",
-            "description": "In this role, I was able to collaborate and sometimes lead on many aspects of the React and Node architecture and daily development within our squads codebase. Also, I was able to collaborate with other squads and their senior developers. This experience was invaluable, especially in a company the size of Sky.",
-            "techlist": ["react", "es6", "node", "mongo", "aws", "webpack"]
+            "description": "In this role, I was able to collaborate and sometimes lead on many aspects of the React and Node architecture and daily development within our squads codebase. This made for a challenging but fun time at Sky. I was able to collaborate with other squads and their senior developers and this experience was invaluable, especially in a company the size of Sky. I also skilled up in GraphQL which, until Sky, I had only worked on in my personal dev time outside of work.",
+            "techlist": ["react", "es6", "node", "graphql", "aws", "webpack"]
         },
         {
             "logoImage": "haymarket",
