@@ -1,6 +1,15 @@
 {
     "timelineCards": [
         {
+            "logoImage": "sky",
+            "startDate": "May 2021",
+            "endDate": "February 2022",
+            "title": "Sky",
+            "location": "England",
+            "description": "In this role, I was able to collaborate and sometimes lead on many aspects of the React and Node architecture and daily development within our squads codebase. Also, I was able to collaborate with other squads and their senior developers. This experience was invaluable, especially in a company the size of Sky.",
+            "techlist": ["react", "es6", "node", "mongo", "aws", "webpack"]
+        },
+        {
             "logoImage": "haymarket",
             "startDate": "June 2019",
             "endDate": "April 2021",
